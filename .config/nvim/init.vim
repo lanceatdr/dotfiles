@@ -1,0 +1,1 @@
+/Users/lancesmith/.config/nvim/init.vim
